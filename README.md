@@ -27,7 +27,7 @@ cd weather-app
 Add your API key in `script.js`:
 
 ```js
-const apiKey = "YOUR_API_KEY_HERE";
+const apiKey = "API_KEY_HERE";
 ```
 
 Open `index.html` in your browser.
