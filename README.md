@@ -1,4 +1,4 @@
-Weather App
+# Weather App
 
 A responsive weather application that provides real-time data, location-based forecasts, and interactive visualizations.
 
